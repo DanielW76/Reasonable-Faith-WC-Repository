@@ -705,7 +705,7 @@ const AdminPanel = ({ setCurrentPage }) => {
 
   // Default admin credentials (change these!)
   const ADMIN_USERNAME = 'admin';
-  const ADMIN_PASSWORD = 'ReasonableFaith2025';
+  const ADMIN_PASSWORD = '$2b$10$ekPCGH2hIszP98cXS8mQ6.4p/M1xASRs3YXDhl7HDnOfauv7SrhKm';
 
   // Form state for event
   const [eventForm, setEventForm] = useState({
